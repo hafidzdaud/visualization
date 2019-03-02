@@ -1,3 +1,3 @@
 # Visualization
 
-Applied case using 3d.js and dc.js
+Applied used case
